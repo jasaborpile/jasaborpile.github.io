@@ -1,0 +1,15 @@
+0000.000 (1) Opened log file at time: Fri, 06 Jan 2023 06:55:40 +0000 on https://jasaborpile.com
+0000.001 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.16.58.25 WP: 4.9.22 PHP: 7.3.33 (apache2handler, Windows NT ASUS64 10.0 build 19042 (Windows 10) AMD64) MySQL: 10.4.22-MariaDB WPLANG: id_ID Server: Apache/2.4.51 (Win64) OpenSSL/1.1.1l PHP/7.3.33 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 45.5M | 46M) multisite: N openssl: OpenSSL 1.1.1l  24 Aug 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.002 (1) Free space on disk containing Updraft's temporary directory: 373680.8 MB
+0000.054 (1) Requesting backup semaphore lock (dd03f021b003)
+0000.056 (1) [Lock option (updraft_lock_dd03f021b003, jp_options) was created in the database] debug
+0000.057 (1) [Lock (updraft_lock_dd03f021b003, jp_options) acquired after initialising the database] info
+0000.059 (1) This backup task (dd03f021b003) is either complete or began over 2 days ago: ending (1672988140.9293, ) (existing jobdata keys: )
+0000.000 (1) Opened log file at time: Fri, 06 Jan 2023 06:55:48 +0000 on https://jasaborpile.com
+0000.002 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.16.58.25 WP: 4.9.22 PHP: 7.3.33 (apache2handler, Windows NT ASUS64 10.0 build 19042 (Windows 10) AMD64) MySQL: 10.4.22-MariaDB WPLANG: id_ID Server: Apache/2.4.51 (Win64) OpenSSL/1.1.1l PHP/7.3.33 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 45.4M | 16M) multisite: N openssl: OpenSSL 1.1.1l  24 Aug 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.003 (1) Free space on disk containing Updraft's temporary directory: 373680.6 MB
+0000.007 (1) Requesting backup semaphore lock (dd03f021b003)
+0000.009 (1) [Lock option (updraft_lock_dd03f021b003, jp_options) already existed in the database] debug
+0000.011 (1) [Lock (updraft_lock_dd03f021b003, jp_options) could not be acquired (it is locked)] info
+0000.012 (1) Failed to gain semaphore lock (dd03f021b003) - another resumption for this job is apparently already active
+0000.013 (1) Failed to get backup job lock; possible overlapping resumptions - will abort this instance
